@@ -1,7 +1,5 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/heberthreinstein/geodetective)
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/linnovate/mean)
-
 ## Welcome to the mean stack
 
 The mean stack is intended to provide a simple and fun starting point for cloud native fullstack javascript applications.   
