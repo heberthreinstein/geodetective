@@ -1,5 +1,5 @@
 image:
-  file: Dockerfile
+  file: .gitpod.Dockerfile
 
 tasks:
   - init: yarn install && yarn run build
