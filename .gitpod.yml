@@ -1,4 +1,4 @@
-image: Dockerfile
+image: docker-compose.yml
 
 tasks:
   - init: yarn install && yarn run build
